@@ -29,7 +29,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python.крестики нолики">
+  <component name="RunManager" selected="Python.main">
     <configuration name="крестики нолики" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lesson03.03.24" />
       <option name="INTERPRETER_OPTIONS" value="" />

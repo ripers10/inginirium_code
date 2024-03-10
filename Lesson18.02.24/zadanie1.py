@@ -2,16 +2,20 @@ import random
 
 import pygame
 
-pygame.init()
 
-width = 500
+
 height = 500
+width = 500
 
 win = pygame.display.set_mode((width,height))
 
 
-class Circle:
-    def __init__(self, color, x, y, rad):
+class Circle:import pygame
+
+pygame.init()
+
+width = 500
+def __init__(self, color, x, y, rad):
         self.color = color
         self.x = x
         self.y = y
